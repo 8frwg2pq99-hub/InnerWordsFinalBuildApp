@@ -1,0 +1,30 @@
+{
+  "/": {
+    "title": "InnerWords — Daily Word Puzzle Challenge",
+    "description": "Play today's InnerWords challenge! Build new words by extracting letter sequences. Compete on daily leaderboards and track your progress.",
+    "openGraph": {
+      "images": "https://images.unsplash.com/photo-1606092195730-5d7b9af1efc5?w=1200&h=630&fit=crop"
+    }
+  },
+  "/archive": {
+    "title": "Challenge Archive - InnerWords",
+    "description": "Browse and replay past InnerWords daily challenges. Beat your previous scores and climb the leaderboards.",
+    "openGraph": {
+      "images": "https://images.unsplash.com/photo-1606092195730-5d7b9af1efc5?w=1200&h=630&fit=crop"
+    }
+  },
+  "/challenge": {
+    "title": "Play Challenge - InnerWords",
+    "description": "Take on today's InnerWords challenge. Build words using contiguous letter sequences and compete for the top score.",
+    "openGraph": {
+      "images": "https://images.unsplash.com/photo-1606092195730-5d7b9af1efc5?w=1200&h=630&fit=crop"
+    }
+  },
+  "/leaderboards": {
+    "title": "Leaderboards - InnerWords",
+    "description": "View InnerWords leaderboards and see how you rank against other players in daily challenges.",
+    "openGraph": {
+      "images": "https://images.unsplash.com/photo-1606092195730-5d7b9af1efc5?w=1200&h=630&fit=crop"
+    }
+  }
+}
